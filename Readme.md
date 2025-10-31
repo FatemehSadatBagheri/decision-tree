@@ -45,10 +45,6 @@ The classifier supports two different splitting criteria:
 
 1.  Ensure you have Python 3.x installed.
 2.  Clone this repository to your local machine.
-    ```bash
-    git clone [YOUR_REPOSITORY_URL]
-    cd [REPOSITORY_DIRECTORY]
-    ```
 3.  Install the required Python libraries.
     ```bash
     pip install numpy pandas
