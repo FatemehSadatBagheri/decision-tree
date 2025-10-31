@@ -59,12 +59,6 @@ The main script is designed to be run directly from the command line. It will au
 
 1.  Run the script from your terminal:
 
-    ```bash
-    python your_script_name.py
-    ```
-
-    *(Note: Replace `your_script_name.py` with the actual name of the Python file.)*
-
 2.  The script will perform the following steps as defined in its `if __name__== "__main__":` block:
 
       * Load `onlinefraud.csv` using pandas.
